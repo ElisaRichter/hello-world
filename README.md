@@ -1,3 +1,2 @@
 # hello-world
-
-# only testing how GitHub works
+only testing how GitHub works
